@@ -1,8 +1,8 @@
 # Olá 👋
 
-🔹 Meu nome é **Filipe Jacobson Marra** 👨🏻
+🔹 Meu nome é **Filipe Jacobson Marra** e tenho **19 anos**👨🏻
 
-🔹 Sou um estudante de **Engenharia de Software** 📚 
+🔹 Sou um estudante de **Engenharia de Software** no 4° semestre 📚 
 
 🔹 **Estudo Programação e Desenvolvimento de Software** desde os 16 anos 💻
 
@@ -13,7 +13,7 @@
 | Python| Criatividade |
 | CSS | Autodidata |
 | HTML| Liderança |
-|React| Assertiveness |
+|React| Assertividade |
 | Ruby | Resiliência |
 | C | Comunicação |
 | C++ | Compromisso |
