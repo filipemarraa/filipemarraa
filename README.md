@@ -2,7 +2,7 @@
 
 🔹 Meu nome é **Filipe Jacobson Marra** e tenho **20 anos** 👨🏻
 
-🔹 Sou estudante de **Engenharia de Software** no 5° semestre 📚 
+🔹 Sou estudante de **Engenharia de Software** no 7° semestre 📚 
 
 🔹 **Estudo Programação e Desenvolvimento de Software** desde os 16 anos 💻
 
