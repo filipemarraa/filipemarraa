@@ -97,27 +97,6 @@ Projeto com Python e Llama 3 voltado ao engajamento e capacitação de jovens, c
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/filipemarraa/filipemarraa/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/filipemarraa/filipemarraa/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="Snake Game das contribuições do GitHub"
-      src="https://raw.githubusercontent.com/filipemarraa/filipemarraa/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</p>
-
----
-
-## 🐍 Snake Game
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/filipemarraa/filipemarraa/output/github-snake-dark.svg"
     />
     <source
