@@ -103,6 +103,6 @@ Projeto com Python e Llama 3 voltado ao engajamento e capacitação de jovens, c
   </a>
   &nbsp;
   <a href="https://github.com/filipemarraa">
-    <img src="./assets/github.svg" alt="GitHub" height="40" />
+    <img src="./assets/github.png" alt="GitHub" height="40" />
   </a>
 </p>
