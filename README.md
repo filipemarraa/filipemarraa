@@ -18,7 +18,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/filipemarraa" target="_blank">
-    <img src="./assets/github.svg" alt="GitHub" height="40" />
+    <img src="./assets/github.png" alt="GitHub" height="40" />
   </a>
 </p>
 
