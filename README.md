@@ -29,7 +29,7 @@
 <p align="center">
   <img src="./assets/aws.png" alt="AWS Certified Cloud Practitioner" height="95" />
   &nbsp;&nbsp;
-  <img src="./assets/az-900.png" alt="Microsoft AZ-900" height="95" />
+  <img src="./assets/az900.png" alt="Microsoft AZ-900" height="95" />
   &nbsp;&nbsp;
   <img src="./assets/apex.png" alt="Oracle APEX Developer Professional" height="95" />
   &nbsp;&nbsp;
