@@ -10,13 +10,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/filipemarra/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="./assets/linkedin.svg" alt="LinkedIn" height="40" />
   </a>
+  &nbsp;
   <a href="mailto:filipejacobsonmarra@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="./assets/gmail.svg" alt="Gmail" height="40" />
   </a>
+  &nbsp;
   <a href="https://github.com/filipemarraa" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="./assets/github.svg" alt="GitHub" height="40" />
   </a>
 </p>
 
@@ -25,17 +27,21 @@
 ## 🏅 Certificações
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle%20APEX%20Developer%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20Foundations-C74634?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/IBM%20Watsonx%20Agentic%20AI-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco%20Network%20Defense-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/ISO%2027001-111111?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/FEBRABAN%20Cyber%20Academy-003B71?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/C3SA-Certified%20Cyber%20Security%20Analyst-5B2C83?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Science%20101-005571?style=for-the-badge" />
+  <img src="./assets/aws.png" alt="AWS Certified Cloud Practitioner" height="95" />
+  &nbsp;&nbsp;
+  <img src="./assets/az-900.png" alt="Microsoft AZ-900" height="95" />
+  &nbsp;&nbsp;
+  <img src="./assets/apex.png" alt="Oracle APEX Developer Professional" height="95" />
+  &nbsp;&nbsp;
+  <img src="./assets/oracle.png" alt="Oracle Cloud Infrastructure Foundations" height="95" />
+</p>
+
+<p align="center">
+  <img src="./assets/google.png" alt="Google Cybersecurity" height="95" />
+  &nbsp;&nbsp;
+  <img src="./assets/cisco.png" alt="Cisco Network Defense" height="95" />
+  &nbsp;&nbsp;
+  <img src="./assets/c3sa.png" alt="C3SA Certified Cyber Security Analyst" height="95" />
 </p>
 
 ---
@@ -89,12 +95,14 @@ Projeto com Python e Llama 3 voltado ao engajamento e capacitação de jovens, c
 
 <p align="center">
   <a href="mailto:filipejacobsonmarra@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="./assets/gmail.svg" alt="Gmail" height="40" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/filipemarra/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="./assets/linkedin.svg" alt="LinkedIn" height="40" />
   </a>
+  &nbsp;
   <a href="https://github.com/filipemarraa">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="./assets/github.svg" alt="GitHub" height="40" />
   </a>
 </p>
